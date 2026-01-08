@@ -1,0 +1,2 @@
+// fundamentals of any web dev application bcoz these are the ones who works/manipulates for APIs
+// on react, axios, a library can be useful on fetching, but that doesnt meant we will skip the fetch on js, learn the basics
